@@ -2,7 +2,7 @@
 Aplicação feita em node JS
 
 Passos
- 1. Instalar o node JS
+ 1. Instalar o node JS [link](https://nodejs.org/en/download/)
  2. Abrir o Node.JS Command Prompt
  3. inserir essa linha de codigo : npm install express
  4. Entrar no diretorio que está localizado esse arquivo cd 'caminho da pasta'
